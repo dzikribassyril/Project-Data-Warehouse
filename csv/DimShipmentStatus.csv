@@ -1,0 +1,9 @@
+﻿status_key,status_code,status_name,status_category,status_description
+1,PICKUP,Picked Up,Proses,Paket telah dijemput dari pengirim
+2,INTRANSIT,In Transit,Proses,Paket sedang dalam perjalanan
+3,ONSORTIR,On Sorting,Proses,Paket sedang disortir di gudang
+4,OUTDELIVERY,Out for Delivery,Proses,Paket sedang diantar ke penerima
+5,DELIVERED,Delivered,Selesai,Paket berhasil diterima oleh penerima
+6,FAILED,Failed Delivery,Gagal,Pengiriman gagal dilakukan
+7,RETURNED,Returned to Sender,Gagal,Paket dikembalikan ke pengirim
+8,CANCELLED,Cancelled,Batal,Pengiriman dibatalkan

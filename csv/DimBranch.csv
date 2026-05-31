@@ -1,0 +1,14 @@
+﻿branch_key,branch_id,branch_name,branch_type,address,city,province,region,manager_name,opening_date,is_active
+1,BR-001,Cabang Jakarta Pusat,Pusat,"Jl. Veteran No. 163, Jakarta Pusat",Jakarta Pusat,DKI Jakarta,Jabodetabek,Kartika Wibowo,2019-08-22,1
+2,BR-002,Cabang Jakarta Selatan,Cabang,"Jl. Pemuda No. 166, Jakarta Selatan",Jakarta Selatan,DKI Jakarta,Jabodetabek,Andi Kurniawan,2023-07-28,1
+3,BR-003,Cabang Bandung,Cabang,"Jl. Gatot Subroto No. 66, Bandung",Bandung,Jawa Barat,Jawa,Prasetyo Susanto,2020-02-09,1
+4,BR-004,Cabang Bekasi,Agen,"Jl. Asia Afrika No. 195, Bekasi",Bekasi,Jawa Barat,Jawa,Dani Hidayat,2022-09-04,1
+5,BR-005,Cabang Semarang,Cabang,"Jl. Hasanuddin No. 127, Semarang",Semarang,Jawa Tengah,Jawa,Lukman Ramadhan,2021-08-08,1
+6,BR-006,Cabang Solo,Agen,"Jl. Hasanuddin No. 160, Solo",Solo,Jawa Tengah,Jawa,Yunita Suryadi,2020-10-23,1
+7,BR-007,Cabang Surabaya,Cabang,"Jl. Thamrin No. 121, Surabaya",Surabaya,Jawa Timur,Jawa,Jasmine Lestari,2021-06-24,1
+8,BR-008,Cabang Malang,Agen,"Jl. Sudirman No. 91, Malang",Malang,Jawa Timur,Jawa,Sari Permana,2021-11-05,1
+9,BR-009,Cabang Tangerang,Agen,"Jl. Pahlawan No. 10, Tangerang",Tangerang,Banten,Jabodetabek,Umar Lestari,2019-04-27,1
+10,BR-010,Cabang Medan,Cabang,"Jl. Hasanuddin No. 24, Medan",Medan,Sumatera Utara,Sumatera,Tari Wibowo,2022-06-13,1
+11,BR-011,Cabang Palembang,Agen,"Jl. Veteran No. 190, Palembang",Palembang,Sumatera Selatan,Sumatera,Laras Permana,2024-01-09,1
+12,BR-012,Cabang Makassar,Cabang,"Jl. Asia Afrika No. 147, Makassar",Makassar,Sulawesi Selatan,Sulawesi,Kevin Budiman,2022-08-27,1
+13,BR-013,Cabang Denpasar,Agen,"Jl. Pahlawan No. 129, Denpasar",Denpasar,Bali,Bali & Nusa Tenggara,Wahyu Gunawan,2019-11-05,0

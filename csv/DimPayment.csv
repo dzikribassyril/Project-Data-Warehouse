@@ -1,0 +1,81 @@
+﻿payment_key,payment_id,payment_method,payment_channel,bank_name,payment_date,payment_status,is_cod,refund_status
+1,PAY-00001,COD,Tunai,,2025-08-19,Lunas,1,Tidak Ada
+2,PAY-00002,COD,Tunai,,2025-04-06,Lunas,1,Tidak Ada
+3,PAY-00003,Kartu Kredit,Visa,CIMB Niaga,2025-06-01,Lunas,0,Tidak Ada
+4,PAY-00004,Transfer Bank,Mobile Banking,BNI,2025-03-20,Lunas,0,Tidak Ada
+5,PAY-00005,E-Wallet,ShopeePay,,2025-07-04,Lunas,0,Tidak Ada
+6,PAY-00006,Transfer Bank,Internet Banking,BRI,2025-07-04,Lunas,0,Tidak Ada
+7,PAY-00007,Transfer Bank,Mobile Banking,BCA,2025-04-06,Lunas,0,Tidak Ada
+8,PAY-00008,Kartu Kredit,Visa,BCA,2025-02-15,Lunas,0,Tidak Ada
+9,PAY-00009,Transfer Bank,ATM,CIMB Niaga,2025-06-16,Pending,0,Tidak Ada
+10,PAY-00010,Transfer Bank,Internet Banking,BRI,2025-07-18,Lunas,0,Tidak Ada
+11,PAY-00011,E-Wallet,OVO,,2025-03-28,Lunas,0,Tidak Ada
+12,PAY-00012,COD,Tunai,,2025-03-16,Lunas,1,Tidak Ada
+13,PAY-00013,Kartu Kredit,Mastercard,Mandiri,2025-06-03,Lunas,0,Tidak Ada
+14,PAY-00014,Transfer Bank,Internet Banking,BNI,2025-05-07,Lunas,0,Tidak Ada
+15,PAY-00015,Virtual Account,VA BNI,BNI,2025-04-11,Lunas,0,Tidak Ada
+16,PAY-00016,E-Wallet,Dana,,2025-07-22,Lunas,0,Tidak Ada
+17,PAY-00017,Kartu Kredit,Mastercard,Mandiri,2025-06-21,Lunas,0,Tidak Ada
+18,PAY-00018,E-Wallet,Dana,,2025-11-05,Lunas,0,Proses Refund
+19,PAY-00019,E-Wallet,ShopeePay,,2025-04-01,Lunas,0,Proses Refund
+20,PAY-00020,COD,Tunai,,2025-10-22,Lunas,1,Tidak Ada
+21,PAY-00021,COD,Tunai,,2025-07-21,Lunas,1,Tidak Ada
+22,PAY-00022,E-Wallet,OVO,,2025-08-25,Lunas,0,Proses Refund
+23,PAY-00023,E-Wallet,ShopeePay,,2025-12-21,Lunas,0,Tidak Ada
+24,PAY-00024,Kartu Kredit,Mastercard,BCA,2025-11-21,Lunas,0,Tidak Ada
+25,PAY-00025,COD,Tunai,,2025-07-13,Lunas,1,Tidak Ada
+26,PAY-00026,Virtual Account,VA BNI,Mandiri,2025-10-01,Lunas,0,Tidak Ada
+27,PAY-00027,Kartu Kredit,Visa,Mandiri,2025-12-26,Pending,0,Tidak Ada
+28,PAY-00028,Transfer Bank,Mobile Banking,Mandiri,2025-12-03,Lunas,0,Tidak Ada
+29,PAY-00029,E-Wallet,GoPay,,2025-06-19,Lunas,0,Proses Refund
+30,PAY-00030,Kartu Kredit,Visa,BCA,2025-02-20,Lunas,0,Tidak Ada
+31,PAY-00031,E-Wallet,ShopeePay,,2025-07-20,Lunas,0,Tidak Ada
+32,PAY-00032,E-Wallet,Dana,,2025-09-05,Lunas,0,Tidak Ada
+33,PAY-00033,Kartu Kredit,Visa,BCA,2025-03-14,Lunas,0,Tidak Ada
+34,PAY-00034,COD,Tunai,,2025-09-24,Lunas,1,Tidak Ada
+35,PAY-00035,Virtual Account,VA BCA,Mandiri,2025-12-23,Lunas,0,Tidak Ada
+36,PAY-00036,Transfer Bank,Internet Banking,BCA,2025-12-30,Lunas,0,Tidak Ada
+37,PAY-00037,COD,Tunai,,2025-05-05,Lunas,1,Tidak Ada
+38,PAY-00038,E-Wallet,Dana,,2025-08-25,Lunas,0,Tidak Ada
+39,PAY-00039,Kartu Kredit,Visa,BCA,2025-11-24,Lunas,0,Tidak Ada
+40,PAY-00040,Kartu Kredit,Visa,CIMB Niaga,2025-11-11,Pending,0,Tidak Ada
+41,PAY-00041,Virtual Account,VA BNI,Mandiri,2025-07-19,Lunas,0,Tidak Ada
+42,PAY-00042,E-Wallet,OVO,,2025-12-27,Lunas,0,Tidak Ada
+43,PAY-00043,Transfer Bank,ATM,BCA,2025-10-02,Lunas,0,Tidak Ada
+44,PAY-00044,COD,Tunai,,2025-02-28,Lunas,1,Tidak Ada
+45,PAY-00045,Virtual Account,VA BNI,BNI,2025-06-10,Lunas,0,Tidak Ada
+46,PAY-00046,Kartu Kredit,Visa,Mandiri,2025-06-30,Lunas,0,Tidak Ada
+47,PAY-00047,E-Wallet,Dana,,2025-12-11,Lunas,0,Tidak Ada
+48,PAY-00048,Transfer Bank,Mobile Banking,BNI,2025-03-01,Lunas,0,Tidak Ada
+49,PAY-00049,E-Wallet,ShopeePay,,2025-11-02,Lunas,0,Tidak Ada
+50,PAY-00050,Kartu Kredit,Mastercard,BCA,2025-09-07,Lunas,0,Tidak Ada
+51,PAY-00051,E-Wallet,OVO,,2025-05-28,Lunas,0,Tidak Ada
+52,PAY-00052,COD,Tunai,,2025-07-03,Lunas,1,Proses Refund
+53,PAY-00053,Virtual Account,VA BCA,BCA,2025-07-16,Lunas,0,Proses Refund
+54,PAY-00054,Virtual Account,VA Mandiri,BNI,2025-09-09,Lunas,0,Tidak Ada
+55,PAY-00055,Virtual Account,VA Mandiri,BCA,2025-02-12,Lunas,0,Tidak Ada
+56,PAY-00056,E-Wallet,Dana,,2025-05-21,Lunas,0,Tidak Ada
+57,PAY-00057,COD,Tunai,,2025-10-17,Lunas,1,Tidak Ada
+58,PAY-00058,Virtual Account,VA BNI,BNI,2025-02-27,Lunas,0,Tidak Ada
+59,PAY-00059,COD,Tunai,,2025-08-14,Lunas,1,Tidak Ada
+60,PAY-00060,Kartu Kredit,Visa,CIMB Niaga,2025-12-01,Lunas,0,Tidak Ada
+61,PAY-00061,COD,Tunai,,2025-05-15,Lunas,1,Tidak Ada
+62,PAY-00062,Transfer Bank,Internet Banking,BCA,2025-05-02,Lunas,0,Tidak Ada
+63,PAY-00063,COD,Tunai,,2025-11-12,Lunas,1,Tidak Ada
+64,PAY-00064,E-Wallet,OVO,,2025-10-19,Lunas,0,Tidak Ada
+65,PAY-00065,COD,Tunai,,2025-12-27,Lunas,1,Tidak Ada
+66,PAY-00066,COD,Tunai,,2025-07-30,Pending,1,Tidak Ada
+67,PAY-00067,COD,Tunai,,2025-05-08,Lunas,1,Tidak Ada
+68,PAY-00068,COD,Tunai,,2025-09-08,Lunas,1,Tidak Ada
+69,PAY-00069,COD,Tunai,,2025-08-20,Lunas,1,Tidak Ada
+70,PAY-00070,Transfer Bank,Internet Banking,CIMB Niaga,2025-05-23,Lunas,0,Tidak Ada
+71,PAY-00071,COD,Tunai,,2025-06-17,Lunas,1,Tidak Ada
+72,PAY-00072,Transfer Bank,ATM,BRI,2025-11-22,Lunas,0,Tidak Ada
+73,PAY-00073,COD,Tunai,,2025-04-22,Lunas,1,Proses Refund
+74,PAY-00074,E-Wallet,ShopeePay,,2025-06-15,Lunas,0,Tidak Ada
+75,PAY-00075,COD,Tunai,,2025-06-25,Pending,1,Tidak Ada
+76,PAY-00076,Transfer Bank,Mobile Banking,BCA,2025-11-17,Lunas,0,Tidak Ada
+77,PAY-00077,Virtual Account,VA BCA,BCA,2025-03-22,Lunas,0,Tidak Ada
+78,PAY-00078,Transfer Bank,Internet Banking,Mandiri,2025-12-19,Pending,0,Tidak Ada
+79,PAY-00079,COD,Tunai,,2025-02-17,Lunas,1,Tidak Ada
+80,PAY-00080,COD,Tunai,,2025-12-07,Pending,1,Tidak Ada

@@ -1,0 +1,81 @@
+﻿package_key,package_id,package_type,package_category,weight,weight_category,length_cm,width_cm,height_cm,volume_cm3,is_fragile,is_insured,item_description
+1,PKG-00001,Amplop,Besar,5.71,Berat,71,23,8,13064,0,0,Dokumen - Surat Penting
+2,PKG-00002,Amplop,Besar,15.66,Sangat Berat,73,10,35,25550,0,0,Mainan Anak - Puzzle
+3,PKG-00003,Box,Kecil,16.5,Sangat Berat,48,58,39,108576,0,1,Elektronik - Tablet
+4,PKG-00004,Box,Sedang,16.31,Sangat Berat,78,31,42,101556,0,1,Mainan Anak - Puzzle
+5,PKG-00005,Box,Kecil,12.13,Berat,56,24,32,43008,1,1,Elektronik - Laptop Charger
+6,PKG-00006,Polybag,Besar,12.16,Berat,31,26,41,33046,0,1,Pakaian - Jaket
+7,PKG-00007,Tabung,Kecil,24.39,Sangat Berat,21,53,26,28938,0,0,Aksesoris - Kacamata
+8,PKG-00008,Box,Kecil,11.72,Berat,39,33,18,23166,0,1,Pakaian - Jaket
+9,PKG-00009,Tabung,Besar,21.62,Sangat Berat,58,20,13,15080,0,0,Kosmetik - Skincare Set
+10,PKG-00010,Polybag,Sedang,19.1,Sangat Berat,68,37,32,80512,0,0,Aksesoris - Jam Tangan
+11,PKG-00011,Tabung,Sedang,23.64,Sangat Berat,69,34,18,42228,0,0,Makanan Kering - Snack
+12,PKG-00012,Box,Sedang,7.11,Berat,65,23,37,55315,0,1,Elektronik - Smartphone
+13,PKG-00013,Box,Besar,18.21,Sangat Berat,56,28,5,7840,0,1,Buku - Novel
+14,PKG-00014,Tabung,Sedang,13.88,Berat,14,29,35,14210,0,0,Buku - Komik
+15,PKG-00015,Polybag,Kecil,24.38,Sangat Berat,55,28,24,36960,0,1,Peralatan Rumah - Gelas Set
+16,PKG-00016,Polybag,Sedang,12.55,Berat,10,7,11,770,1,0,Olahraga - Raket
+17,PKG-00017,Polybag,Kecil,15.2,Sangat Berat,70,13,23,20930,1,1,Mainan Anak - Action Figure
+18,PKG-00018,Kardus,Besar,14.88,Berat,69,58,35,140070,0,1,Peralatan Rumah - Gelas Set
+19,PKG-00019,Kardus,Besar,20.41,Sangat Berat,52,26,46,62192,0,0,Pakaian - Kemeja
+20,PKG-00020,Amplop,Besar,14.96,Berat,38,46,40,69920,0,1,Peralatan Rumah - Piring Set
+21,PKG-00021,Box,Besar,4.35,Sedang,53,14,46,34132,0,0,Makanan Kering - Kopi
+22,PKG-00022,Amplop,Sedang,0.57,Ringan,45,31,12,16740,1,0,Buku - Textbook
+23,PKG-00023,Kardus,Besar,17.67,Sangat Berat,71,18,38,48564,1,1,Kosmetik - Skincare Set
+24,PKG-00024,Polybag,Besar,23.92,Sangat Berat,63,39,24,58968,0,1,Peralatan Rumah - Gelas Set
+25,PKG-00025,Amplop,Sedang,4.89,Sedang,36,22,38,30096,0,0,Dokumen - Kontrak
+26,PKG-00026,Tabung,Besar,17.29,Sangat Berat,67,25,33,55275,0,1,Kosmetik - Parfum
+27,PKG-00027,Amplop,Sedang,3.13,Sedang,74,29,28,60088,0,1,Kosmetik - Parfum
+28,PKG-00028,Polybag,Besar,23.89,Sangat Berat,15,27,31,12555,1,0,Mainan Anak - Puzzle
+29,PKG-00029,Polybag,Kecil,5.13,Berat,73,22,38,61028,0,0,Olahraga - Raket
+30,PKG-00030,Box,Kecil,6.14,Berat,72,19,43,58824,1,1,Makanan Kering - Kopi
+31,PKG-00031,Tabung,Kecil,17.96,Sangat Berat,17,48,11,8976,1,1,Elektronik - Smartphone
+32,PKG-00032,Polybag,Besar,11.99,Berat,30,53,21,33390,0,0,Kosmetik - Skincare Set
+33,PKG-00033,Box,Kecil,16.34,Sangat Berat,34,39,50,66300,1,0,Kesehatan - Vitamin
+34,PKG-00034,Kardus,Kecil,23.35,Sangat Berat,9,58,28,14616,0,0,
+35,PKG-00035,Polybag,Sedang,0.33,Ringan,77,43,9,29799,1,0,Kosmetik - Skincare Set
+36,PKG-00036,Box,Sedang,21.29,Sangat Berat,64,22,15,21120,0,1,
+37,PKG-00037,Polybag,Besar,16.24,Sangat Berat,28,5,50,7000,0,0,Kosmetik - Skincare Set
+38,PKG-00038,Polybag,Kecil,15.31,Sangat Berat,56,57,30,95760,1,0,Aksesoris - Kacamata
+39,PKG-00039,Box,Sedang,4.7,Sedang,22,35,23,17710,1,0,Makanan Kering - Kopi
+40,PKG-00040,Tabung,Kecil,11.22,Berat,39,26,22,22308,0,1,Peralatan Rumah - Piring Set
+41,PKG-00041,Polybag,Kecil,17.35,Sangat Berat,12,47,10,5640,1,1,Buku - Komik
+42,PKG-00042,Amplop,Kecil,17.29,Sangat Berat,42,28,42,49392,1,0,Makanan Kering - Kopi
+43,PKG-00043,Kardus,Besar,11.43,Berat,52,31,47,75764,0,0,Peralatan Rumah - Gelas Set
+44,PKG-00044,Polybag,Kecil,17.04,Sangat Berat,15,38,31,17670,0,0,Aksesoris - Kacamata
+45,PKG-00045,Amplop,Kecil,20.74,Sangat Berat,69,17,39,45747,0,1,Peralatan Rumah - Gelas Set
+46,PKG-00046,Box,Besar,2.99,Sedang,31,50,40,62000,1,0,Aksesoris - Jam Tangan
+47,PKG-00047,Box,Besar,11.39,Berat,70,31,32,69440,1,1,Peralatan Rumah - Piring Set
+48,PKG-00048,Amplop,Besar,18.11,Sangat Berat,55,21,3,3465,0,0,Kesehatan - Vitamin
+49,PKG-00049,Kardus,Kecil,10.65,Berat,13,39,6,3042,0,1,Elektronik - Laptop Charger
+50,PKG-00050,Kardus,Sedang,4.58,Sedang,22,54,44,52272,1,1,Kesehatan - Vitamin
+51,PKG-00051,Tabung,Kecil,21.75,Sangat Berat,53,29,8,12296,0,0,Olahraga - Bola
+52,PKG-00052,Amplop,Kecil,4.54,Sedang,73,30,36,78840,0,1,Pakaian - Jaket
+53,PKG-00053,Amplop,Kecil,11.63,Berat,74,32,37,87616,1,1,Buku - Novel
+54,PKG-00054,Kardus,Besar,3.96,Sedang,29,51,10,14790,0,0,Elektronik - Tablet
+55,PKG-00055,Tabung,Besar,5.23,Berat,17,43,5,3655,0,0,Buku - Komik
+56,PKG-00056,Amplop,Kecil,18.54,Sangat Berat,56,33,17,31416,0,1,Peralatan Rumah - Gelas Set
+57,PKG-00057,Polybag,Kecil,5.93,Berat,78,25,39,76050,0,0,Mainan Anak - Action Figure
+58,PKG-00058,Polybag,Kecil,24.64,Sangat Berat,71,19,29,39121,0,1,Dokumen - Kontrak
+59,PKG-00059,Kardus,Besar,13.94,Berat,11,27,44,13068,0,1,Olahraga - Bola
+60,PKG-00060,Tabung,Sedang,10.27,Berat,43,29,14,17458,0,0,Kesehatan - Masker
+61,PKG-00061,Tabung,Sedang,7.59,Berat,23,56,32,41216,1,0,Elektronik - Tablet
+62,PKG-00062,Box,Sedang,9.77,Berat,37,18,24,15984,0,0,Mainan Anak - Puzzle
+63,PKG-00063,Tabung,Besar,13.44,Berat,29,8,20,4640,0,0,Buku - Novel
+64,PKG-00064,Amplop,Sedang,4.79,Sedang,80,51,45,183600,0,1,Peralatan Rumah - Gelas Set
+65,PKG-00065,Box,Besar,7.65,Berat,6,18,15,1620,1,0,Kesehatan - Vitamin
+66,PKG-00066,Polybag,Sedang,17.42,Sangat Berat,31,30,18,16740,1,1,Peralatan Rumah - Gelas Set
+67,PKG-00067,Tabung,Sedang,13.39,Berat,50,24,19,22800,1,0,Kosmetik - Parfum
+68,PKG-00068,Polybag,Sedang,20.09,Sangat Berat,65,53,23,79235,1,0,Makanan Kering - Snack
+69,PKG-00069,Polybag,Besar,14.11,Berat,33,52,12,20592,1,1,Elektronik - Smartphone
+70,PKG-00070,Amplop,Sedang,3.9,Sedang,47,19,27,24111,0,1,Peralatan Rumah - Piring Set
+71,PKG-00071,Kardus,Sedang,19.11,Sangat Berat,67,51,44,150348,0,1,Kesehatan - Vitamin
+72,PKG-00072,Box,Besar,4.31,Sedang,74,36,14,37296,0,0,Peralatan Rumah - Gelas Set
+73,PKG-00073,Amplop,Besar,23.64,Sangat Berat,11,53,3,1749,0,0,Buku - Textbook
+74,PKG-00074,Polybag,Kecil,17.71,Sangat Berat,6,18,35,3780,1,1,Buku - Komik
+75,PKG-00075,Box,Besar,0.49,Ringan,73,40,29,84680,0,1,Elektronik - Smartphone
+76,PKG-00076,Box,Besar,0.53,Ringan,60,56,14,47040,0,0,Pakaian - Kemeja
+77,PKG-00077,Kardus,Kecil,4.88,Sedang,72,21,25,37800,0,1,Dokumen - Surat Penting
+78,PKG-00078,Box,Besar,11.53,Berat,36,49,17,29988,0,0,Dokumen - Kontrak
+79,PKG-00079,Box,Besar,10.19,Berat,53,40,33,69960,0,0,Elektronik - Tablet
+80,PKG-00080,Box,Besar,12.55,Berat,60,46,24,66240,0,0,Peralatan Rumah - Piring Set

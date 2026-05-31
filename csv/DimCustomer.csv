@@ -1,0 +1,76 @@
+﻿customer_key,customer_id,customer_name,customer_type,gender,phone,email,city,province,registration_date,is_active
+1,CUST-0001,Budi Syahputra,Korporat,Laki-laki,081381960013,budi.syahputra617@gmail.com,Tangerang Selatan,Banten,2025-02-23,1
+2,CUST-0002,Olivia Lestari,Individual,Perempuan,081226542351,olivia.lestari100@outlook.com,Metro,Lampung,2023-12-06,1
+3,CUST-0003,Tiara Susanto,Bisnis,Perempuan,087895931034,tiara.susanto876@yahoo.co.id,Bima,NTB,2022-07-26,1
+4,CUST-0004,Kartika Kurniawan,Individual,Perempuan,085319283276,kartika.kurniawan948@hotmail.com,Medan,Sumatera Utara,2023-03-26,1
+5,CUST-0005,Cahyo Ardiansyah,Bisnis,Laki-laki,085895376724,cahyo.ardiansyah763@hotmail.com,Binjai,Sumatera Utara,2025-01-08,1
+6,CUST-0006,Bella Kurniawan,Individual,Perempuan,081301226916,bella.kurniawan480@hotmail.com,Malang,Jawa Timur,2023-05-30,1
+7,CUST-0007,Krisna Hartono,Bisnis,Laki-laki,087714627048,krisna.hartono520@gmail.com,Dumai,Riau,2023-09-04,1
+8,CUST-0008,Joko Kurniawan,Bisnis,Laki-laki,082209570154,joko.kurniawan247@hotmail.com,Makassar,Sulawesi Selatan,2022-06-11,0
+9,CUST-0009,Wawan Ramadhan,Bisnis,Laki-laki,082224896383,wawan.ramadhan409@outlook.com,Solo,Jawa Tengah,2024-06-16,1
+10,CUST-0010,Prasetyo Wijaya,Korporat,Laki-laki,,prasetyo.wijaya603@yahoo.co.id,Depok,Jawa Barat,2022-01-15,0
+11,CUST-0011,Oscar Wibowo,Individual,Laki-laki,081383473829,oscar.wibowo249@mail.com,Mataram,NTB,2024-04-13,1
+12,CUST-0012,Yanti Putra,Individual,Perempuan,081210651333,yanti.putra144@mail.com,Bukittinggi,Sumatera Barat,2023-01-11,1
+13,CUST-0013,Kevin Ardiansyah,Bisnis,Laki-laki,082201326773,kevin.ardiansyah925@gmail.com,Denpasar,Bali,2022-12-04,1
+14,CUST-0014,Laras Purnomo,Bisnis,Perempuan,087830980500,laras.purnomo515@hotmail.com,Bukittinggi,Sumatera Barat,2022-11-19,0
+15,CUST-0015,Lukman Wibowo,Individual,Laki-laki,085861939909,lukman.wibowo674@hotmail.com,Bandar Lampung,Lampung,2025-03-03,1
+16,CUST-0016,Iwan Maulana,Individual,Laki-laki,085747510799,iwan.maulana76@hotmail.com,Medan,Sumatera Utara,2023-03-13,1
+17,CUST-0017,Eka Hartono,Korporat,Perempuan,082184980841,eka.hartono138@outlook.com,Sidoarjo,Jawa Timur,2022-08-25,1
+18,CUST-0018,Surya Purnomo,Korporat,Laki-laki,085848740164,,Bandar Lampung,Lampung,2023-11-15,1
+19,CUST-0019,Kartika Syahputra,Individual,Perempuan,081312805982,kartika.syahputra43@outlook.com,Lubuk Linggau,Sumatera Selatan,2024-01-17,1
+20,CUST-0020,Nisa Hakim,Korporat,Perempuan,082269232260,nisa.hakim947@outlook.com,Madiun,Jawa Timur,2024-04-23,1
+21,CUST-0021,Surya Nugroho,Individual,Laki-laki,081273375433,,Makassar,Sulawesi Selatan,2023-01-31,1
+22,CUST-0022,Surya Kurniawan,Bisnis,Laki-laki,082250142940,surya.kurniawan445@outlook.com,Banjarbaru,Kalimantan Selatan,2023-10-05,1
+23,CUST-0023,Dimas Hartono,Korporat,Laki-laki,083808835615,dimas.hartono680@gmail.com,Bandar Lampung,Lampung,2023-09-08,1
+24,CUST-0024,Vina Firmansyah,Bisnis,Perempuan,085866299468,vina.firmansyah312@outlook.com,Samarinda,Kalimantan Timur,2023-03-07,1
+25,CUST-0025,Laras Lestari,Bisnis,Perempuan,085714895134,laras.lestari204@yahoo.co.id,Palembang,Sumatera Selatan,2022-02-20,0
+26,CUST-0026,Lutfi Putra,Individual,Laki-laki,083876320163,lutfi.putra981@hotmail.com,Mataram,NTB,2024-08-09,0
+27,CUST-0027,Lutfi Hidayat,Individual,Laki-laki,082295798687,lutfi.hidayat762@mail.com,Pare-Pare,Sulawesi Selatan,2024-07-10,1
+28,CUST-0028,Sinta Sari,Bisnis,Perempuan,081343455812,sinta.sari393@yahoo.co.id,Banjarmasin,Kalimantan Selatan,2023-03-15,0
+29,CUST-0029,Tiara Lestari,Bisnis,Perempuan,083869096705,tiara.lestari400@mail.com,Padang,Sumatera Barat,2025-01-07,1
+30,CUST-0030,Randi Wijaya,Bisnis,Laki-laki,083856272980,randi.wijaya607@hotmail.com,Cilegon,Banten,2022-02-25,0
+31,CUST-0031,Lutfi Nugroho,Individual,Laki-laki,085875564641,lutfi.nugroho768@hotmail.com,Jakarta Barat,DKI Jakarta,2022-04-17,1
+32,CUST-0032,Hendra Wibowo,Individual,Laki-laki,085830923271,hendra.wibowo224@mail.com,Makassar,Sulawesi Selatan,2023-06-09,1
+33,CUST-0033,Kurniawan Purnomo,Individual,Laki-laki,,kurniawan.purnomo694@mail.com,Cirebon,Jawa Barat,2024-03-23,1
+34,CUST-0034,Bambang Maulana,Bisnis,Laki-laki,087891905865,,Denpasar,Bali,2023-11-30,0
+35,CUST-0035,Gita Putra,Individual,Perempuan,082126284987,gita.putra846@hotmail.com,Pematang Siantar,Sumatera Utara,2023-07-04,1
+36,CUST-0036,Surya Hartono,Bisnis,Laki-laki,085296507527,surya.hartono817@outlook.com,Palembang,Sumatera Selatan,2023-11-29,1
+37,CUST-0037,Winda Pratama,Individual,Perempuan,083878377701,winda.pratama415@yahoo.co.id,Pekanbaru,Riau,2023-09-20,1
+38,CUST-0038,Winda Handayani,Korporat,Perempuan,082255744431,winda.handayani324@gmail.com,Binjai,Sumatera Utara,2025-01-02,1
+39,CUST-0039,Muhammad Santoso,Individual,Laki-laki,085289413435,muhammad.santoso15@hotmail.com,Samarinda,Kalimantan Timur,2022-09-17,1
+40,CUST-0040,Indah Suryadi,Bisnis,Perempuan,081294777520,indah.suryadi883@mail.com,Gianyar,Bali,2022-08-22,1
+41,CUST-0041,Eka Permana,Bisnis,Perempuan,085241318699,eka.permana232@hotmail.com,Banjarmasin,Kalimantan Selatan,2024-02-19,1
+42,CUST-0042,Farah Purnomo,Korporat,Perempuan,081333412328,,Bandar Lampung,Lampung,2022-01-06,1
+43,CUST-0043,Tari Saputra,Individual,Perempuan,082113493618,tari.saputra153@outlook.com,Sidoarjo,Jawa Timur,2022-10-19,0
+44,CUST-0044,Yunita Budiman,Bisnis,Perempuan,087864887719,,Cilegon,Banten,2024-06-03,1
+45,CUST-0045,Bunga Wibowo,Bisnis,Perempuan,085290490278,bunga.wibowo939@outlook.com,Madiun,Jawa Timur,2023-01-07,1
+46,CUST-0046,Fitri Sari,Individual,Perempuan,085312567468,,Binjai,Sumatera Utara,2022-06-30,1
+47,CUST-0047,Fauzi Prasetya,Individual,Laki-laki,082276038597,fauzi.prasetya779@gmail.com,Pekanbaru,Riau,2023-02-21,1
+48,CUST-0048,Intan Hartono,Korporat,Perempuan,085393248086,intan.hartono862@gmail.com,Samarinda,Kalimantan Timur,2024-08-03,1
+49,CUST-0049,Randi Budiman,Individual,Laki-laki,087867737826,randi.budiman614@hotmail.com,Samarinda,Kalimantan Timur,2022-10-07,1
+50,CUST-0050,Wulan Budiman,Individual,Perempuan,087849972787,wulan.budiman566@hotmail.com,Pare-Pare,Sulawesi Selatan,2024-02-12,1
+51,CUST-0051,Prasetyo Permana,Bisnis,Laki-laki,083805766270,prasetyo.permana989@hotmail.com,Padang,Sumatera Barat,2023-11-11,1
+52,CUST-0052,Taufik Budiman,Korporat,Laki-laki,083821745961,taufik.budiman873@hotmail.com,Palembang,Sumatera Selatan,2024-02-18,1
+53,CUST-0053,Tiara Saputra,Individual,Perempuan,085343161172,tiara.saputra926@gmail.com,Bandar Lampung,Lampung,2022-04-05,1
+54,CUST-0054,Yanti Kurniawan,Korporat,Perempuan,083892221969,yanti.kurniawan510@hotmail.com,Padang,Sumatera Barat,2022-10-21,1
+55,CUST-0055,Laras Setiawan,Individual,Perempuan,082148217594,laras.setiawan435@outlook.com,Banjarmasin,Kalimantan Selatan,2024-07-24,1
+56,CUST-0056,Mega Susanto,Individual,Perempuan,085244064090,mega.susanto764@mail.com,Kediri,Jawa Timur,2023-08-10,1
+57,CUST-0057,Olivia Suryadi,Individual,Perempuan,085321047095,olivia.suryadi93@outlook.com,Jember,Jawa Timur,2023-11-01,1
+58,CUST-0058,Irfan Ardiansyah,Bisnis,Laki-laki,087824745171,irfan.ardiansyah990@yahoo.co.id,Dumai,Riau,2024-03-24,1
+59,CUST-0059,Fitri Ardiansyah,Individual,Perempuan,081375496513,fitri.ardiansyah635@hotmail.com,Padang,Sumatera Barat,2023-11-03,1
+60,CUST-0060,Galih Adrianto,Korporat,Laki-laki,081320047113,galih.adrianto139@mail.com,Lubuk Linggau,Sumatera Selatan,2024-07-18,1
+61,CUST-0061,Jasmine Hartono,Korporat,Perempuan,085264053773,jasmine.hartono102@outlook.com,Padang,Sumatera Barat,2025-01-20,1
+62,CUST-0062,Dewi Firmansyah,Individual,Perempuan,082113900532,dewi.firmansyah211@gmail.com,Tangerang Selatan,Banten,2025-02-09,1
+63,CUST-0063,Yusuf Ramadhan,Individual,Laki-laki,,yusuf.ramadhan149@yahoo.co.id,Magelang,Jawa Tengah,2025-01-11,1
+64,CUST-0064,Iwan Prasetya,Individual,Laki-laki,,iwan.prasetya244@hotmail.com,Jakarta Selatan,DKI Jakarta,2023-10-26,0
+65,CUST-0065,Irfan Syahputra,Individual,Laki-laki,082175891783,irfan.syahputra45@hotmail.com,Padang,Sumatera Barat,2023-09-10,1
+66,CUST-0066,Nanda Prasetya,Bisnis,Laki-laki,082171159212,nanda.prasetya649@hotmail.com,Bukittinggi,Sumatera Barat,2025-01-28,1
+67,CUST-0067,Laras Handayani,Korporat,Perempuan,081383673657,laras.handayani748@gmail.com,Metro,Lampung,2023-10-03,1
+68,CUST-0068,Zahra Hidayat,Korporat,Perempuan,081316152809,zahra.hidayat576@outlook.com,Banjarbaru,Kalimantan Selatan,2022-09-08,1
+69,CUST-0069,Dewi Purnomo,Bisnis,Perempuan,085283273158,dewi.purnomo781@outlook.com,Metro,Lampung,2025-03-21,1
+70,CUST-0070,Dani Budiman,Individual,Laki-laki,,dani.budiman781@outlook.com,Banjarbaru,Kalimantan Selatan,2023-11-27,1
+71,CUST-0071,Agus Hakim,Individual,Laki-laki,085301836675,agus.hakim320@outlook.com,Padang,Sumatera Barat,2025-03-08,1
+72,CUST-0072,Kurniawan Ramadhan,Korporat,Laki-laki,087876797643,kurniawan.ramadhan117@outlook.com,Bandar Lampung,Lampung,2024-05-30,1
+73,CUST-0073,Sinta Hakim,Bisnis,Perempuan,085200343244,sinta.hakim8@mail.com,Tangerang,Banten,2024-05-31,1
+74,CUST-0074,Satria Utami,Individual,Laki-laki,081260715969,satria.utami656@mail.com,Gianyar,Bali,2023-08-16,1
+75,CUST-0075,Kartika Ardiansyah,Individual,Perempuan,087716136968,,Metro,Lampung,2023-09-28,1

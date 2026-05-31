@@ -1,0 +1,21 @@
+﻿route_key,route_id,origin_city,destination_city,origin_region,destination_region,distance_km,route_type,is_active
+1,RT-001,Jakarta Pusat,Bandung,Jabodetabek,Jawa,146,Inter-Region (Jawa),1
+2,RT-002,Jakarta Pusat,Semarang,Jabodetabek,Jawa,458,Inter-Region (Jawa),1
+3,RT-003,Jakarta Pusat,Surabaya,Jabodetabek,Jawa,771,Inter-Region (Jawa),1
+4,RT-004,Jakarta Pusat,Medan,Jabodetabek,Sumatera,1398,Inter-Region (Luar Jawa),1
+5,RT-005,Jakarta Selatan,Bekasi,Jabodetabek,Jawa,38,Inter-Region (Jawa),1
+6,RT-006,Jakarta Selatan,Tangerang,Jabodetabek,Jabodetabek,20,Intra-Region,1
+7,RT-007,Jakarta Selatan,Bogor,Jabodetabek,Jawa,60,Inter-Region (Jawa),0
+8,RT-008,Bandung,Semarang,Jawa,Jawa,346,Intra-Region,1
+9,RT-009,Bandung,Surabaya,Jawa,Jawa,682,Intra-Region,1
+10,RT-010,Semarang,Solo,Jawa,Jawa,99,Intra-Region,1
+11,RT-011,Semarang,Surabaya,Jawa,Jawa,347,Intra-Region,1
+12,RT-012,Surabaya,Malang,Jawa,Jawa,92,Intra-Region,1
+13,RT-013,Surabaya,Denpasar,Jawa,Bali & Nusa Tenggara,407,Inter-Region (Luar Jawa),1
+14,RT-014,Jakarta Pusat,Makassar,Jabodetabek,Sulawesi,1494,Inter-Region (Luar Jawa),1
+15,RT-015,Jakarta Pusat,Palembang,Jabodetabek,Sumatera,592,Inter-Region (Luar Jawa),1
+16,RT-016,Medan,Padang,Sumatera,Sumatera,501,Intra-Region,1
+17,RT-017,Bandung,Tasikmalaya,Jawa,Jawa,113,Intra-Region,1
+18,RT-018,Jakarta Pusat,Denpasar,Jabodetabek,Bali & Nusa Tenggara,1192,Inter-Region (Luar Jawa),1
+19,RT-019,Surabaya,Kediri,Jawa,Jawa,159,Intra-Region,1
+20,RT-020,Jakarta Pusat,Tangerang Selatan,Jabodetabek,Jabodetabek,22,Intra-Region,1

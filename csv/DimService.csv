@@ -1,0 +1,7 @@
+﻿service_key,service_code,service_name,service_category,delivery_estimation,max_weight,is_cod_available,is_active
+1,REG,Regular,Standard,3-5 hari,30.0,1,1
+2,EXP,Express,Premium,1-2 hari,20.0,1,1
+3,ONS,Same Day,Premium,Hari yang sama,10.0,0,1
+4,ECO,Ekonomi,Standard,5-7 hari,50.0,1,1
+5,CGO,Cargo,Logistik,5-10 hari,100.0,0,1
+6,INS,Instant,Premium,2-4 jam,5.0,0,1
