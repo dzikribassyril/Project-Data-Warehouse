@@ -1,0 +1,151 @@
+courier_key,courier_id,courier_name,gender,phone,branch_id,vehicle_type,hire_date,employee_status,is_active
+1,KR-00001,Alika Hutasoit,Laki-laki,085721322064,BR-013,Mobil Van,2024-12-05,Freelance,1
+2,KR-00002,Nugraha Lestari,Laki-laki,085720028232,BR-007,Mobil Box,2025-05-23,Tetap,1
+3,KR-00003,Gawati Sinaga,Laki-laki,085750881241,BR-006,Motor,2026-04-07,Tetap,1
+4,KR-00004,"Puti Vicky Narpati, S.Kom",Laki-laki,085750179168,BR-020,Sepeda,2026-03-14,Freelance,1
+5,KR-00005,H. Hasta Waluyo,Perempuan,085750487343,BR-001,Sepeda,2024-08-29,Kontrak,1
+6,KR-00006,"KH. Abyasa Tarihoran, M.Ak",Perempuan,085739317181,BR-001,Motor,2023-09-02,Tetap,1
+7,KR-00007,drg. Najwa Simbolon,Perempuan,085744113126,BR-008,Motor,2024-11-05,Kontrak,1
+8,KR-00008,Vera Pudjiastuti,Perempuan,085715039806,BR-010,Motor,2026-05-14,Freelance,1
+9,KR-00009,Tania Halimah,Laki-laki,085789036558,BR-014,Motor,2025-06-29,Tetap,1
+10,KR-00010,Anom Widodo,Perempuan,085714795693,BR-011,Sepeda,2025-05-24,Tetap,1
+11,KR-00011,Dadap Firmansyah,Perempuan,085723655946,BR-015,Motor,2024-03-06,Tetap,1
+12,KR-00012,Jasmin Lazuardi,Perempuan,085765242563,BR-016,Motor,2024-02-11,Freelance,1
+13,KR-00013,"R. Febi Astuti, S.Sos",Perempuan,085760002268,BR-018,Sepeda,2024-12-12,Kontrak,1
+14,KR-00014,Mila Hardiansyah,Laki-laki,085788483349,BR-013,Mobil Van,2023-10-08,Freelance,1
+15,KR-00015,"dr. Karya Adriansyah, M.M.",Laki-laki,085715846093,BR-012,Sepeda,2024-01-01,Kontrak,1
+16,KR-00016,Atma Rajata,Laki-laki,085740830062,BR-016,Motor,2025-02-23,Tetap,1
+17,KR-00017,Maras Kuswandari,Perempuan,085788795252,BR-005,Motor,2025-10-03,Kontrak,1
+18,KR-00018,Genta Narpati,Perempuan,085736173853,BR-009,Mobil Van,2025-07-19,Freelance,1
+19,KR-00019,Lutfan Napitupulu,Laki-laki,085794258931,BR-016,Motor,2025-08-27,Kontrak,1
+20,KR-00020,Pangestu Padmasari,Laki-laki,085750848947,BR-005,Motor,2024-12-14,Tetap,1
+21,KR-00021,"Juli Yuniar, S.Gz",Laki-laki,085771414647,BR-013,Mobil Van,2026-05-05,Kontrak,1
+22,KR-00022,Nadine Permadi,Laki-laki,085770655925,BR-018,Motor,2024-08-12,Freelance,1
+23,KR-00023,"T. Rangga Rahimah, S.Farm",Laki-laki,085735690345,BR-011,Sepeda,2023-08-02,Tetap,1
+24,KR-00024,Cut Genta Widiastuti,Perempuan,085714053657,BR-014,Mobil Van,2025-12-28,Kontrak,1
+25,KR-00025,Capa Pradipta,Perempuan,085797448640,BR-020,Motor,2024-01-15,Freelance,1
+26,KR-00026,dr. Kamaria Wibisono,Perempuan,085766131328,BR-009,Motor,2025-03-13,Freelance,1
+27,KR-00027,Bagiya Andriani,Perempuan,085797771145,BR-008,Motor,2024-09-09,Kontrak,1
+28,KR-00028,Dr. Cindy Tarihoran,Laki-laki,085734232907,BR-016,Mobil Van,2026-02-22,Tetap,1
+29,KR-00029,"Cemani Laksita, M.Ak",Perempuan,085784000246,BR-002,Motor,2026-02-27,Tetap,1
+30,KR-00030,Cinta Halimah,Perempuan,085730194572,BR-020,Motor,2024-09-30,Kontrak,1
+31,KR-00031,"Dr. Irfan Wijaya, S.Kom",Laki-laki,085770908833,BR-017,Mobil Box,2023-12-29,Tetap,1
+32,KR-00032,Harja Puspita,Perempuan,085790386088,BR-007,Mobil Box,2024-03-09,Kontrak,1
+33,KR-00033,Putri Rahimah,Laki-laki,085719891997,BR-011,Mobil Van,2023-12-26,Tetap,1
+34,KR-00034,"R.A. Agnes Nashiruddin, M.Kom.",Laki-laki,085769867022,BR-005,Motor,2024-07-28,Kontrak,1
+35,KR-00035,Hasan Hastuti,Laki-laki,085758734944,BR-014,Motor,2024-10-12,Tetap,1
+36,KR-00036,Satya Pradipta,Perempuan,085799037606,BR-020,Mobil Box,2024-07-22,Tetap,1
+37,KR-00037,Kurnia Narpati,Laki-laki,085793170560,BR-016,Motor,2025-06-12,Tetap,1
+38,KR-00038,Kiandra Dabukke,Laki-laki,085720842324,BR-012,Mobil Box,2026-04-22,Tetap,1
+39,KR-00039,"Tgk. Raden Hastuti, M.Farm",Perempuan,085715820977,BR-008,Mobil Van,2023-12-15,Kontrak,1
+40,KR-00040,"Dt. Rudi Nababan, S.Pt",Perempuan,085799770629,BR-016,Sepeda,2024-11-21,Tetap,1
+41,KR-00041,R. Erik Adriansyah,Laki-laki,085764071433,BR-012,Motor,2024-01-24,Kontrak,1
+42,KR-00042,R. Ilsa Maulana,Laki-laki,085737983823,BR-008,Mobil Box,2023-11-04,Tetap,1
+43,KR-00043,Sadina Sihombing,Perempuan,085748966086,BR-008,Motor,2024-01-20,Tetap,1
+44,KR-00044,Ibrahim Utami,Perempuan,085772516654,BR-016,Mobil Van,2025-11-24,Tetap,1
+45,KR-00045,Drs. Martana Uyainah,Perempuan,085767331818,BR-007,Sepeda,2024-05-22,Tetap,1
+46,KR-00046,Jayadi Manullang,Perempuan,085765501085,BR-007,Mobil Box,2026-06-06,Tetap,1
+47,KR-00047,"Ir. Satya Napitupulu, S.Pt",Laki-laki,085795604163,BR-014,Motor,2026-05-06,Tetap,1
+48,KR-00048,T. Bahuwirya Utama,Laki-laki,085719111591,BR-011,Sepeda,2025-10-17,Kontrak,1
+49,KR-00049,Drs. Rama Mahendra,Laki-laki,085791165463,BR-004,Motor,2023-08-30,Kontrak,1
+50,KR-00050,"Cut Yulia Sihombing, S.Pd",Perempuan,085786755389,BR-016,Mobil Van,2023-10-21,Tetap,1
+51,KR-00051,Tgk. Emil Farida,Perempuan,085796755052,BR-012,Motor,2025-11-06,Kontrak,1
+52,KR-00052,Citra Usamah,Laki-laki,085785466865,BR-001,Motor,2026-06-18,Kontrak,1
+53,KR-00053,"Suci Maulana, S.Psi",Laki-laki,085748253111,BR-010,Mobil Van,2024-03-16,Kontrak,1
+54,KR-00054,R.A. Ella Hastuti,Perempuan,085780808831,BR-020,Motor,2025-09-30,Freelance,1
+55,KR-00055,drg. Paris Pratiwi,Laki-laki,085769222626,BR-009,Motor,2024-11-02,Kontrak,1
+56,KR-00056,"Kania Farida, S.Pd",Laki-laki,085731835285,BR-018,Motor,2024-10-07,Kontrak,1
+57,KR-00057,Oni Hakim,Perempuan,085719581083,BR-014,Motor,2025-04-21,Tetap,1
+58,KR-00058,"Drs. Michelle Wahyudin, S.Pd",Perempuan,085728113412,BR-008,Mobil Van,2025-05-31,Kontrak,1
+59,KR-00059,"Ir. Vivi Anggraini, S.Farm",Perempuan,085785600924,BR-015,Mobil Van,2024-12-01,Tetap,1
+60,KR-00060,"Drs. Ratna Pradana, S.Farm",Laki-laki,085760231929,BR-001,Sepeda,2026-03-31,Tetap,1
+61,KR-00061,Carub Yulianti,Perempuan,085729380326,BR-008,Sepeda,2025-10-24,Tetap,1
+62,KR-00062,"Rachel Maryati, M.Kom.",Perempuan,085771225450,BR-014,Mobil Van,2024-08-24,Freelance,1
+63,KR-00063,"Puti Tania Ardianto, S.Gz",Perempuan,085796593566,BR-017,Mobil Van,2025-08-27,Tetap,1
+64,KR-00064,"R.A. Julia Yolanda, S.Pd",Perempuan,085756326318,BR-007,Mobil Van,2023-12-18,Kontrak,1
+65,KR-00065,Calista Prakasa,Laki-laki,085723813183,BR-013,Motor,2026-05-02,Kontrak,1
+66,KR-00066,drg. Alika Suartini,Perempuan,085790117715,BR-012,Motor,2024-10-06,Freelance,1
+67,KR-00067,"Wahyu Susanti, S.IP",Laki-laki,085791236717,BR-005,Motor,2023-08-20,Tetap,1
+68,KR-00068,R. Kania Wastuti,Perempuan,085746733000,BR-003,Mobil Van,2024-09-27,Tetap,1
+69,KR-00069,"Bakianto Hariyah, S.I.Kom",Perempuan,085735960361,BR-011,Motor,2024-06-19,Tetap,1
+70,KR-00070,Melinda Suryatmi,Laki-laki,085744324584,BR-006,Mobil Van,2026-05-19,Kontrak,1
+71,KR-00071,drg. Digdaya Ramadan,Laki-laki,085776090283,BR-001,Motor,2023-12-21,Tetap,1
+72,KR-00072,Indra Simbolon,Perempuan,085758208086,BR-019,Motor,2025-01-22,Freelance,1
+73,KR-00073,Gawati Wasita,Laki-laki,085774357800,BR-008,Motor,2024-11-29,Tetap,1
+74,KR-00074,Azalea Hariyah,Laki-laki,085727897059,BR-001,Mobil Box,2023-06-26,Tetap,1
+75,KR-00075,"Ir. Sakura Pratiwi, S.Sos",Perempuan,085790876457,BR-011,Mobil Van,2026-01-19,Kontrak,1
+76,KR-00076,"Cinthia Suwarno, M.M.",Laki-laki,085748354708,BR-010,Motor,2024-01-22,Tetap,1
+77,KR-00077,"Sutan Paiman Manullang, S.H.",Laki-laki,085736296546,BR-012,Motor,2026-03-08,Tetap,1
+78,KR-00078,Nabila Usada,Laki-laki,085718045410,BR-010,Mobil Van,2024-01-13,Kontrak,1
+79,KR-00079,Yessi Sihotang,Perempuan,085710514523,BR-003,Mobil Van,2026-02-08,Tetap,1
+80,KR-00080,Ilyas Haryanto,Laki-laki,085720629036,BR-014,Motor,2026-02-20,Tetap,1
+81,KR-00081,Patricia Mayasari,Laki-laki,085772175043,BR-007,Motor,2024-01-31,Kontrak,1
+82,KR-00082,Harjo Manullang,Laki-laki,085797838682,BR-008,Sepeda,2023-07-30,Tetap,1
+83,KR-00083,Putri Novitasari,Laki-laki,085724278875,BR-016,Mobil Van,2024-09-30,Freelance,1
+84,KR-00084,Tami Napitupulu,Laki-laki,085732016676,BR-016,Motor,2025-04-06,Kontrak,1
+85,KR-00085,Alambana Wahyuni,Laki-laki,085745237432,BR-005,Motor,2025-05-14,Kontrak,1
+86,KR-00086,"Hj. Maida Yuliarti, S.E.",Laki-laki,085757697102,BR-002,Motor,2023-09-27,Kontrak,1
+87,KR-00087,Elvina Sihotang,Perempuan,085747492716,BR-015,Sepeda,2024-01-14,Tetap,1
+88,KR-00088,Mutia Januar,Perempuan,085782538618,BR-005,Sepeda,2024-05-08,Kontrak,1
+89,KR-00089,Ratih Halimah,Perempuan,085794945189,BR-002,Mobil Van,2024-01-11,Freelance,1
+90,KR-00090,"Bambang Nugroho, S.IP",Perempuan,085789477981,BR-013,Motor,2025-08-02,Tetap,1
+91,KR-00091,Kayla Prakasa,Perempuan,085773854091,BR-002,Motor,2023-08-25,Tetap,1
+92,KR-00092,dr. Jasmin Pratama,Laki-laki,085733010735,BR-017,Sepeda,2026-04-12,Tetap,1
+93,KR-00093,Cagak Marpaung,Perempuan,085775257645,BR-004,Motor,2026-01-09,Freelance,1
+94,KR-00094,"KH. Jamil Irawan, M.Farm",Perempuan,085730883578,BR-016,Motor,2025-05-01,Kontrak,1
+95,KR-00095,Mustika Saragih,Perempuan,085772138674,BR-020,Mobil Van,2025-03-26,Freelance,1
+96,KR-00096,Daniswara Prastuti,Laki-laki,085718886897,BR-005,Motor,2024-01-16,Tetap,1
+97,KR-00097,Bahuraksa Utama,Perempuan,085738214839,BR-014,Motor,2023-09-13,Kontrak,1
+98,KR-00098,Keisha Rahmawati,Laki-laki,085780078168,BR-007,Motor,2025-08-12,Freelance,1
+99,KR-00099,Fitria Zulaika,Laki-laki,085744420354,BR-012,Motor,2024-09-24,Freelance,1
+100,KR-00100,Harsana Budiman,Laki-laki,085799689154,BR-019,Mobil Box,2025-04-08,Tetap,1
+101,KR-00101,Purwadi Laksita,Perempuan,085720885249,BR-020,Motor,2026-04-15,Kontrak,1
+102,KR-00102,Ophelia Pangestu,Laki-laki,085732953762,BR-001,Motor,2024-08-27,Tetap,1
+103,KR-00103,"Dt. Kawaca Salahudin, S.IP",Perempuan,085715416322,BR-001,Motor,2023-08-17,Freelance,1
+104,KR-00104,Hj. Maimunah Latupono,Perempuan,085745218812,BR-015,Motor,2024-09-24,Tetap,1
+105,KR-00105,Gabriella Nasyidah,Perempuan,085762726563,BR-014,Mobil Van,2024-01-25,Freelance,1
+106,KR-00106,Dr. Sakura Firgantoro,Laki-laki,085772356855,BR-020,Mobil Van,2025-12-13,Tetap,1
+107,KR-00107,"Drs. Cawisadi Usamah, S.Farm",Perempuan,085720297759,BR-019,Motor,2024-05-07,Tetap,1
+108,KR-00108,Kamila Wasita,Laki-laki,085792551621,BR-003,Sepeda,2025-12-03,Tetap,1
+109,KR-00109,Luluh Firmansyah,Perempuan,085745575713,BR-011,Motor,2026-05-11,Freelance,1
+110,KR-00110,"Dr. Hari Kusmawati, M.Kom.",Perempuan,085775261611,BR-016,Motor,2023-12-28,Tetap,1
+111,KR-00111,"Tgk. Citra Fujiati, S.E.I",Laki-laki,085729122086,BR-015,Mobil Van,2024-08-24,Tetap,1
+112,KR-00112,"Tgk. Atma Yulianti, S.Pt",Perempuan,085797553333,BR-008,Motor,2026-04-16,Kontrak,1
+113,KR-00113,Dwi Halimah,Laki-laki,085765689330,BR-019,Sepeda,2025-11-23,Tetap,1
+114,KR-00114,R. Wawan Mansur,Perempuan,085743643378,BR-015,Sepeda,2025-05-13,Kontrak,1
+115,KR-00115,Hana Nasyidah,Laki-laki,085750968025,BR-009,Motor,2023-09-19,Kontrak,1
+116,KR-00116,"Yessi Salahudin, S.Sos",Laki-laki,085746997005,BR-010,Mobil Van,2024-09-14,Kontrak,1
+117,KR-00117,Kania Pangestu,Laki-laki,085741535234,BR-019,Mobil Van,2024-09-06,Tetap,1
+118,KR-00118,"Mariadi Budiyanto, S.Pt",Laki-laki,085727295938,BR-002,Mobil Box,2025-06-13,Tetap,1
+119,KR-00119,Mala Putra,Perempuan,085727997120,BR-008,Mobil Van,2024-05-15,Kontrak,1
+120,KR-00120,Lasmanto Megantara,Laki-laki,085718558690,BR-005,Mobil Van,2026-01-03,Tetap,1
+121,KR-00121,Irnanto Hutapea,Perempuan,085787229813,BR-001,Sepeda,2024-09-30,Tetap,1
+122,KR-00122,"Sutan Bakianto Narpati, S.Psi",Laki-laki,085762990748,BR-008,Motor,2025-05-06,Tetap,1
+123,KR-00123,Fathonah Utami,Laki-laki,085776522955,BR-015,Mobil Box,2025-11-03,Tetap,1
+124,KR-00124,Akarsana Astuti,Laki-laki,085764847930,BR-010,Motor,2024-04-20,Tetap,1
+125,KR-00125,Ellis Pranowo,Laki-laki,085762045778,BR-019,Mobil Van,2024-03-03,Tetap,1
+126,KR-00126,Leo Laksita,Perempuan,085773744002,BR-013,Motor,2023-10-29,Tetap,1
+127,KR-00127,"T. Okto Dongoran, M.Farm",Laki-laki,085720528235,BR-020,Motor,2025-11-05,Kontrak,1
+128,KR-00128,Drs. Kala Mayasari,Laki-laki,085722825979,BR-003,Motor,2024-01-05,Kontrak,1
+129,KR-00129,"Usyi Saragih, S.Psi",Perempuan,085766511257,BR-004,Motor,2026-04-23,Kontrak,1
+130,KR-00130,Genta Wahyuni,Perempuan,085764458728,BR-019,Motor,2024-04-18,Kontrak,1
+131,KR-00131,Queen Hidayanto,Perempuan,085741739947,BR-008,Mobil Van,2024-04-14,Kontrak,1
+132,KR-00132,Dr. Cornelia Hasanah,Perempuan,085794479787,BR-001,Mobil Van,2023-07-20,Kontrak,1
+133,KR-00133,R.M. Rosman Nababan,Perempuan,085726125635,BR-010,Sepeda,2024-03-30,Freelance,1
+134,KR-00134,"Dt. Jarwi Utami, M.Ak",Perempuan,085784331819,BR-003,Mobil Van,2025-01-21,Kontrak,1
+135,KR-00135,Tasnim Narpati,Perempuan,085776358498,BR-011,Motor,2025-12-04,Kontrak,1
+136,KR-00136,Jagapati Wahyudin,Perempuan,085725847846,BR-008,Motor,2023-09-20,Tetap,1
+137,KR-00137,Dt. Bakianto Farida,Perempuan,085769901231,BR-015,Mobil Box,2024-05-21,Tetap,1
+138,KR-00138,Harsana Wijaya,Laki-laki,085765145432,BR-005,Mobil Van,2024-10-18,Tetap,1
+139,KR-00139,Yessi Nuraini,Perempuan,085780772627,BR-010,Motor,2026-04-17,Kontrak,1
+140,KR-00140,Puti Palastri,Laki-laki,085772393829,BR-001,Mobil Box,2025-07-20,Tetap,1
+141,KR-00141,Cahyanto Puspasari,Laki-laki,085720081528,BR-013,Motor,2025-01-28,Tetap,1
+142,KR-00142,Raihan Hakim,Laki-laki,085711207401,BR-003,Sepeda,2023-11-26,Tetap,1
+143,KR-00143,Cahya Gunawan,Perempuan,085766558261,BR-005,Sepeda,2024-02-08,Freelance,1
+144,KR-00144,Ir. Raina Haryanto,Laki-laki,085723530828,BR-006,Motor,2024-07-31,Kontrak,1
+145,KR-00145,drg. Michelle Hutagalung,Perempuan,085747851060,BR-004,Mobil Van,2024-04-17,Tetap,1
+146,KR-00146,"Dr. Nova Anggraini, S.Kom",Perempuan,085779866374,BR-014,Motor,2024-07-16,Tetap,1
+147,KR-00147,Kawaya Manullang,Laki-laki,085718266636,BR-010,Motor,2025-07-04,Tetap,1
+148,KR-00148,Yoga Gunawan,Perempuan,085769136630,BR-003,Mobil Van,2024-08-11,Kontrak,1
+149,KR-00149,Kasim Dabukke,Perempuan,085795041908,BR-012,Mobil Van,2025-02-19,Tetap,1
+150,KR-00150,"Hj. Nabila Wasita, S.Sos",Laki-laki,085784195019,BR-016,Motor,2024-10-16,Kontrak,1

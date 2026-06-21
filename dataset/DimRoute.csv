@@ -1,0 +1,31 @@
+route_key,route_id,origin_city,destination_city,origin_region,destination_region,distance_km,route_type,is_active
+1,RT-001,Batam,Manado,Sumatera,Sulawesi,615,Inter-Region (Luar Jawa),1
+2,RT-002,Banjarmasin,Balikpapan,Kalimantan,Kalimantan,1463,Intra-Region,1
+3,RT-003,Semarang,Yogyakarta,Jawa,Jawa,442,Intra-Region,1
+4,RT-004,Malang,Banjarmasin,Jawa,Kalimantan,989,Inter-Region (Luar Jawa),1
+5,RT-005,Denpasar,Manado,Bali & Nusa Tenggara,Sulawesi,461,Inter-Region (Luar Jawa),1
+6,RT-006,Malang,Medan,Jawa,Sumatera,348,Inter-Region (Luar Jawa),1
+7,RT-007,Makassar,Yogyakarta,Sulawesi,Jawa,106,Inter-Region (Luar Jawa),1
+8,RT-008,Palembang,Semarang,Sumatera,Jawa,1126,Inter-Region (Luar Jawa),1
+9,RT-009,Yogyakarta,Balikpapan,Jawa,Kalimantan,741,Inter-Region (Luar Jawa),1
+10,RT-010,Tangerang,Semarang,Jabodetabek,Jawa,599,Inter-Region (Jawa),1
+11,RT-011,Tangerang,Yogyakarta,Jabodetabek,Jawa,1242,Inter-Region (Jawa),1
+12,RT-012,Denpasar,Makassar,Bali & Nusa Tenggara,Sulawesi,259,Inter-Region (Luar Jawa),1
+13,RT-013,Jakarta Pusat,Denpasar,Jabodetabek,Bali & Nusa Tenggara,86,Inter-Region (Luar Jawa),1
+14,RT-014,Malang,Medan,Jawa,Sumatera,459,Inter-Region (Luar Jawa),1
+15,RT-015,Surabaya,Semarang,Jawa,Jawa,360,Intra-Region,1
+16,RT-016,Tangerang,Jakarta Pusat,Jabodetabek,Jabodetabek,1223,Intra-Region,1
+17,RT-017,Tangerang,Balikpapan,Jabodetabek,Kalimantan,348,Inter-Region (Luar Jawa),1
+18,RT-018,Jakarta Selatan,Makassar,Jabodetabek,Sulawesi,59,Inter-Region (Luar Jawa),1
+19,RT-019,Jakarta Selatan,Tangerang,Jabodetabek,Jabodetabek,1256,Intra-Region,1
+20,RT-020,Solo,Balikpapan,Jawa,Kalimantan,530,Inter-Region (Luar Jawa),1
+21,RT-021,Batam,Yogyakarta,Sumatera,Jawa,1233,Inter-Region (Luar Jawa),1
+22,RT-022,Banjarmasin,Tangerang,Kalimantan,Jabodetabek,854,Inter-Region (Luar Jawa),1
+23,RT-023,Yogyakarta,Yogyakarta,Jawa,Jawa,1396,Intra-Region,1
+24,RT-024,Surabaya,Pekanbaru,Jawa,Sumatera,866,Inter-Region (Luar Jawa),1
+25,RT-025,Yogyakarta,Manado,Jawa,Sulawesi,373,Inter-Region (Luar Jawa),1
+26,RT-026,Batam,Medan,Sumatera,Sumatera,1299,Intra-Region,1
+27,RT-027,Bekasi,Makassar,Jabodetabek,Sulawesi,1209,Inter-Region (Luar Jawa),1
+28,RT-028,Makassar,Padang,Sulawesi,Sumatera,541,Inter-Region (Luar Jawa),1
+29,RT-029,Medan,Banjarmasin,Sumatera,Kalimantan,212,Inter-Region (Luar Jawa),1
+30,RT-030,Denpasar,Batam,Bali & Nusa Tenggara,Sumatera,609,Inter-Region (Luar Jawa),1

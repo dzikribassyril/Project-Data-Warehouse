@@ -1,0 +1,218 @@
+================================================ 
+  ETL Pipeline - Data Warehouse Logistik        
+  Mulai  : 21/06/2026 12:00:44,01                        
+  Server : localhost\SQLEXPRESS                             
+  DB     : Logistics_DW                           
+================================================ 
+ 
+[OK] sqlcmd ditemukan. 
+[OK] Koneksi ke SQL Server berhasil. 
+[STEP 1/9] Create Database 
+Database Logistics_DW sudah ada, melanjutkan...
+Changed database context to 'Logistics_DW'.
+================================================
+Database Logistics_DW siap digunakan.
+================================================
+[OK] STEP 1 selesai. 
+[STEP 2/9] Create Staging Tables 
+Changed database context to 'Logistics_DW'.
+================================================
+Semua tabel staging berhasil dibuat di schema [stg].
+================================================
+[OK] STEP 2 selesai. 
+[STEP 3/9] Import CSV 
+Changed database context to 'Logistics_DW'.
+Staging tables berhasil di-truncate.
+
+(365 rows affected)
+1/10 - stg.DimDate : 365 baris
+
+(5000 rows affected)
+2/10 - stg.DimCustomer : 5000 baris
+
+(20 rows affected)
+3/10 - stg.DimBranch : 20 baris
+
+(150 rows affected)
+4/10 - stg.DimCourier : 150 baris
+
+(6 rows affected)
+5/10 - stg.DimService : 6 baris
+
+(100000 rows affected)
+6/10 - stg.DimPackage : 100000 baris
+
+(8 rows affected)
+7/10 - stg.DimShipmentStatus : 8 baris
+
+(30 rows affected)
+8/10 - stg.DimRoute : 30 baris
+
+(100000 rows affected)
+9/10 - stg.DimPayment : 100000 baris
+
+(9999 rows affected)
+
+(10000 rows affected)
+
+(10000 rows affected)
+
+(10000 rows affected)
+
+(10000 rows affected)
+
+(10000 rows affected)
+
+(10000 rows affected)
+
+(10000 rows affected)
+
+(10000 rows affected)
+
+(10000 rows affected)
+
+(100000 rows affected)
+10/10 - stg.FactDeliveryPerformance : 100000 baris
+================================================
+Import CSV ke Staging selesai.
+================================================
+[OK] STEP 3 selesai. 
+[STEP 4/9] Create DW Tables 
+Changed database context to 'Logistics_DW'.
+================================================
+Star Schema (schema [dw]) berhasil dibuat:
+  - 9 Dimension Tables
+  - 1 Fact Table dengan 11 FK + UNIQUE constraints
+================================================
+[OK] STEP 4 selesai. 
+[STEP 5/9] Load Dimensions 
+Changed database context to 'Logistics_DW'.
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+Tabel DW berhasil dikosongkan.
+Info              DimDate     DimCustomer DimBranch   DimCourier  DimService  DimPackage  DimShipmentStatus DimRoute    DimPayment 
+----------------- ----------- ----------- ----------- ----------- ----------- ----------- ----------------- ----------- -----------
+STAGING ROW COUNT         365        5000          20         150           6      100000                 8          30      100000
+
+(1 rows affected)
+
+(365 rows affected)
+1/9 - DimDate loaded     : 365 baris
+
+(5000 rows affected)
+2/9 - DimCustomer loaded : 5000 baris
+
+(20 rows affected)
+3/9 - DimBranch loaded   : 20 baris
+
+(150 rows affected)
+4/9 - DimCourier loaded  : 150 baris
+
+(6 rows affected)
+5/9 - DimService loaded  : 6 baris
+
+(100000 rows affected)
+6/9 - DimPackage loaded  : 100000 baris
+
+(8 rows affected)
+7/9 - DimStatus loaded   : 8 baris
+
+(30 rows affected)
+8/9 - DimRoute loaded    : 30 baris
+
+(100000 rows affected)
+9/9 - DimPayment loaded  : 100000 baris
+Info                    DimDate     DimCustomer DimBranch   DimCourier  DimService  DimPackage  DimShipmentStatus DimRoute    DimPayment 
+----------------------- ----------- ----------- ----------- ----------- ----------- ----------- ----------------- ----------- -----------
+DW ROW COUNT AFTER LOAD         365        5000          20         150           6      100000                 8          30      100000
+
+(1 rows affected)
+================================================
+Transform & Load Dimensi selesai.
+Lanjutkan ke: 06_transform_and_load_fact.sql
+================================================
+[OK] STEP 5 selesai. 
+[STEP 6/9] Load Fact 
+Changed database context to 'Logistics_DW'.
+
+(0 rows affected)
+FactDeliveryPerformance berhasil dikosongkan.
+
+(100000 rows affected)
+FactDeliveryPerformance loaded: 100000 baris
+================================================
+Transform & Load Fact selesai.
+Lanjutkan ke: 07_check_etl_result.sql
+================================================
+[OK] STEP 6 selesai. 
+[STEP 7/9] QA Check 
+Changed database context to 'Logistics_DW'.
+=== [1] ROW COUNT ===
+TableName               TotalRows  
+----------------------- -----------
+DimBranch                        20
+DimCourier                      150
+DimCustomer                    5000
+DimDate                         365
+DimPackage                   100000
+DimPayment                   100000
+DimRoute                         30
+DimService                        6
+DimShipmentStatus                 8
+FactDeliveryPerformance      100000
+
+(10 rows affected)
+=== [2] DISTRIBUSI STATUS ===
+Status                         Kategori        Total_Pengiriman Persentase_Pct
+------------------------------ --------------- ---------------- --------------
+Delivered                      Selesai                    70822          70.82
+Failed Delivery                Gagal                       4527           4.53
+Out for Delivery               Proses                      4463           4.46
+In Transit                     Proses                      4456           4.46
+Picked Up                      Proses                      4400           4.40
+On Sorting                     Proses                      4380           4.38
+Cancelled                      Batal                       4255           4.26
+Returned to Sender             Gagal                       2697           2.70
+
+(8 rows affected)
+=== [3] DATA QUALITY CHECK ===
+Error_Negative_Delay Error_Negative_Amount Error_Zero_ShippingFee Error_Delivered_NoActualDays Error_Delivered_NoDeliveryDate Warning_NonDelivered_HasActualDays Error_Missing_TransactionDate Error_MultipleFlags
+-------------------- --------------------- ---------------------- ---------------------------- ------------------------------ ---------------------------------- ----------------------------- -------------------
+                   0                     0                      0                        70822                          70822                                  0                             0                   0
+
+(1 rows affected)
+=== [4] REFERENTIAL INTEGRITY CHECK ===
+Orphan_TransactionDate Orphan_Customer Orphan_Branch Orphan_Courier Orphan_Service Orphan_Package Orphan_Status Orphan_Route Orphan_Payment
+---------------------- --------------- ------------- -------------- -------------- -------------- ------------- ------------ --------------
+                     0               0             0              0              0              0             0            0              0
+
+(1 rows affected)
+=== [5] DUPLICATE CHECK ===
+Dup_shipment_key Dup_shipment_id Dup_awb_number Dup_customer_key Dup_customer_id
+---------------- --------------- -------------- ---------------- ---------------
+               0               0              0                0               0
+
+(1 rows affected)
+=== [6] KPI SUMMARY ===
+Msg 8115, Level 16, State 2, Server DESKTOP-OF9I6NJ\SQLEXPRESS, Line 6
+Arithmetic overflow error converting expression to data type int.
+Warning: Null value is eliminated by an aggregate or other SET operation.
+[GAGAL] STEP 7 - QA Check 
