@@ -1,0 +1,14 @@
+{
+    "name": "Hafizh Logistics Theme",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "title": [
+                    {
+                        "fontFamily": "Plus Jakarta Sans"
+                    }
+                ]
+            }
+        }
+    }
+}

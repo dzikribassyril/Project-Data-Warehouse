@@ -1,0 +1,31 @@
+route_key,route_id,origin_city,destination_city,origin_region,destination_region,distance_km,route_type,is_active
+1,RT-001,Denpasar,Padang,Bali & Nusa Tenggara,Sumatera,149,Inter-Region (Luar Jawa),1
+2,RT-002,Bandung,Tangerang,Jawa,Jabodetabek,1175,Inter-Region (Jawa),1
+3,RT-003,Banjarmasin,Semarang,Kalimantan,Jawa,746,Inter-Region (Luar Jawa),1
+4,RT-004,Bandung,Bandung,Jawa,Jawa,1438,Intra-Region,1
+5,RT-005,Bandung,Batam,Jawa,Sumatera,356,Inter-Region (Luar Jawa),1
+6,RT-006,Balikpapan,Jakarta Selatan,Kalimantan,Jabodetabek,691,Inter-Region (Luar Jawa),1
+7,RT-007,Jakarta Selatan,Yogyakarta,Jabodetabek,Jawa,652,Inter-Region (Jawa),1
+8,RT-008,Balikpapan,Jakarta Selatan,Kalimantan,Jabodetabek,859,Inter-Region (Luar Jawa),1
+9,RT-009,Bandung,Tangerang,Jawa,Jabodetabek,832,Inter-Region (Jawa),1
+10,RT-010,Palembang,Palembang,Sumatera,Sumatera,1448,Intra-Region,1
+11,RT-011,Padang,Yogyakarta,Sumatera,Jawa,1009,Inter-Region (Luar Jawa),1
+12,RT-012,Solo,Jakarta Pusat,Jawa,Jabodetabek,1366,Inter-Region (Jawa),1
+13,RT-013,Bekasi,Pekanbaru,Jabodetabek,Sumatera,294,Inter-Region (Luar Jawa),1
+14,RT-014,Medan,Denpasar,Sumatera,Bali & Nusa Tenggara,451,Inter-Region (Luar Jawa),1
+15,RT-015,Solo,Solo,Jawa,Jawa,817,Intra-Region,1
+16,RT-016,Bandung,Padang,Jawa,Sumatera,1411,Inter-Region (Luar Jawa),1
+17,RT-017,Malang,Medan,Jawa,Sumatera,381,Inter-Region (Luar Jawa),1
+18,RT-018,Palembang,Medan,Sumatera,Sumatera,936,Intra-Region,1
+19,RT-019,Jakarta Selatan,Batam,Jabodetabek,Sumatera,1144,Inter-Region (Luar Jawa),1
+20,RT-020,Medan,Bandung,Sumatera,Jawa,140,Inter-Region (Luar Jawa),1
+21,RT-021,Manado,Semarang,Sulawesi,Jawa,64,Inter-Region (Luar Jawa),1
+22,RT-022,Denpasar,Balikpapan,Bali & Nusa Tenggara,Kalimantan,517,Inter-Region (Luar Jawa),1
+23,RT-023,Banjarmasin,Jakarta Pusat,Kalimantan,Jabodetabek,1436,Inter-Region (Luar Jawa),1
+24,RT-024,Jakarta Pusat,Bekasi,Jabodetabek,Jabodetabek,709,Intra-Region,1
+25,RT-025,Batam,Banjarmasin,Sumatera,Kalimantan,1157,Inter-Region (Luar Jawa),1
+26,RT-026,Malang,Palembang,Jawa,Sumatera,1497,Inter-Region (Luar Jawa),1
+27,RT-027,Manado,Manado,Sulawesi,Sulawesi,1481,Intra-Region,1
+28,RT-028,Bekasi,Medan,Jabodetabek,Sumatera,1158,Inter-Region (Luar Jawa),1
+29,RT-029,Makassar,Bekasi,Sulawesi,Jabodetabek,1465,Inter-Region (Luar Jawa),1
+30,RT-030,Surabaya,Palembang,Jawa,Sumatera,1088,Inter-Region (Luar Jawa),1

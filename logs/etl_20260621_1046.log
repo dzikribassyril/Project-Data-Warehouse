@@ -1,0 +1,45 @@
+================================================ 
+  ETL Pipeline - Data Warehouse Logistik        
+  Mulai  : 21/06/2026 10:46:52,68                        
+  Server : localhost\SQLEXPRESS                             
+  DB     : Logistics_DW                           
+================================================ 
+ 
+[OK] sqlcmd ditemukan. 
+[OK] Koneksi ke SQL Server berhasil. 
+[STEP 1/9] Create Database 
+Database Logistics_DW sudah ada, melanjutkan...
+Changed database context to 'Logistics_DW'.
+================================================
+Database Logistics_DW siap digunakan.
+================================================
+[OK] STEP 1 selesai. 
+[STEP 2/9] Create Staging Tables 
+Changed database context to 'Logistics_DW'.
+================================================
+Semua tabel staging berhasil dibuat di schema [stg].
+================================================
+[OK] STEP 2 selesai. 
+[STEP 3/9] Import CSV 
+Changed database context to 'Logistics_DW'.
+Msg 1046, Level 15, State 1, Server DESKTOP-OF9I6NJ\SQLEXPRESS, Line 41
+Subqueries are not allowed in this context. Only scalar expressions are allowed.
+Msg 1046, Level 15, State 1, Server DESKTOP-OF9I6NJ\SQLEXPRESS, Line 55
+Subqueries are not allowed in this context. Only scalar expressions are allowed.
+Msg 1046, Level 15, State 1, Server DESKTOP-OF9I6NJ\SQLEXPRESS, Line 69
+Subqueries are not allowed in this context. Only scalar expressions are allowed.
+Msg 1046, Level 15, State 1, Server DESKTOP-OF9I6NJ\SQLEXPRESS, Line 83
+Subqueries are not allowed in this context. Only scalar expressions are allowed.
+Msg 1046, Level 15, State 1, Server DESKTOP-OF9I6NJ\SQLEXPRESS, Line 97
+Subqueries are not allowed in this context. Only scalar expressions are allowed.
+Msg 1046, Level 15, State 1, Server DESKTOP-OF9I6NJ\SQLEXPRESS, Line 111
+Subqueries are not allowed in this context. Only scalar expressions are allowed.
+Msg 1046, Level 15, State 1, Server DESKTOP-OF9I6NJ\SQLEXPRESS, Line 125
+Subqueries are not allowed in this context. Only scalar expressions are allowed.
+Msg 1046, Level 15, State 1, Server DESKTOP-OF9I6NJ\SQLEXPRESS, Line 139
+Subqueries are not allowed in this context. Only scalar expressions are allowed.
+Msg 1046, Level 15, State 1, Server DESKTOP-OF9I6NJ\SQLEXPRESS, Line 153
+Subqueries are not allowed in this context. Only scalar expressions are allowed.
+Msg 1046, Level 15, State 1, Server DESKTOP-OF9I6NJ\SQLEXPRESS, Line 168
+Subqueries are not allowed in this context. Only scalar expressions are allowed.
+[GAGAL] STEP 3 - Import CSV 
